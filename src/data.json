@@ -1,0 +1,369 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "question": "This odd number tallies the family head count",
+      "answer": "23",
+      "points": 100
+    },
+    {
+      "id": 2,
+      "question": "It was a big deal Jen and Geri dated because of this age difference",
+      "answer": "5",
+      "points": 200
+    },
+    {
+      "id": 3,
+      "question": "This vowel is found at the end of most middle names in the family",
+      "answer": "E",
+      "points": 300
+    },
+    {
+      "id": 4,
+      "question": "When legally changing her name she took out these two letters from the spelling",
+      "answer": "M and Y",
+      "points": 400
+    },
+    {
+      "id": 5,
+      "question": "The actual length of the trail in Tennessee",
+      "answer": "2.7 Miles",
+      "points": 500
+    },
+    {
+      "id": 6,
+      "question": "Finish this song: 'Oh the lord is good to me ...'",
+      "answer": "... and so I thank the lord...",
+      "points": 100
+    },
+    {
+      "id": 7,
+      "question": "This history-filled Billy Joel song took forever to write the lyrics out",
+      "answer": "We Didn't Start The Fire",
+      "points": 200
+    },
+    {
+      "id": 8,
+      "question": "We line danced to this country song",
+      "answer": "Boot Scoot Boogy",
+      "points": 300
+    },
+    {
+      "id": 9,
+      "question": "The instruments that were played by the original 6",
+      "answer": "Flute, Clarinet, Sax, and Percussion",
+      "points": 400
+    },
+    {
+      "id": 10,
+      "question": "John Michael Montgomery sand this song in 1995 but Tim couldn't get the lyrics down",
+      "answer": "Sold",
+      "points": 500
+    },
+    {
+      "id": 11,
+      "question": "We've all been to this magical place",
+      "answer": "Disney World",
+      "points": 100
+    },
+    {
+      "id": 12,
+      "question": "The body part Holden burned last time at OBX.",
+      "answer": "Feet",
+      "points": 200
+    },
+    {
+      "id": 13,
+      "question": "Em took a trip in this restaurant",
+      "answer": "Captain George's Buffet",
+      "points": 300
+    },
+    {
+      "id": 14,
+      "question": "He was the manager at our favorite hotel in Virginia Beach",
+      "answer": "Howard",
+      "points": 400
+    },
+    {
+      "id": 15,
+      "question": "His moon was over the falls of Niagra",
+      "answer": "Kari",
+      "points": 500
+    },
+    {
+      "id": 16,
+      "question": "Jarren, Teige, Y2k",
+      "answer": "2000",
+      "points": 100
+    },
+    {
+      "id": 17,
+      "question": "Carys should have been born in this year",
+      "answer": "2006",
+      "points": 200
+    },
+    {
+      "id": 18,
+      "question": "Kennedy was born and Tami graduated",
+      "answer": "1989",
+      "points": 300
+    },
+    {
+      "id": 19,
+      "question": "Original OBX trip",
+      "answer": "2012",
+      "points": 400
+    },
+    {
+      "id": 20,
+      "question": "The first trip to Virginia Beach was in the Summer of this year",
+      "answer": "1992",
+      "points": 500
+    },
+    {
+      "id": 21,
+      "question": "Mobile Army Surgical Hospital",
+      "answer": "MASH",
+      "points": 100
+    },
+    {
+      "id": 22,
+      "question": "Kemo Sabe",
+      "answer": "The Lone Ranger",
+      "points": 200
+    },
+    {
+      "id": 23,
+      "question": "Could I BE anymore obvious",
+      "answer": "Friends",
+      "points": 300
+    },
+    {
+      "id": 24,
+      "question": "Serenity Now",
+      "answer": "Seinfeld",
+      "points": 400
+    },
+    {
+      "id": 25,
+      "question": "Kaaaaaaaarl",
+      "answer": "Llamas with hats",
+      "points": 500
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Letters & Numbers"
+    },
+    {
+      "id": 2,
+      "category": "Music"
+    },
+    {
+      "id": 3,
+      "category": "Vacations"
+    },
+    {
+      "id": 4,
+      "category": "What Year Was It?"
+    },
+    {
+      "id": 5,
+      "category": "Tv Shows We Love/d"
+    }
+  ],
+  "cards2": [
+    {
+      "id": 26,
+      "question": "A form of transportation in the wild west, also where our parents worked",
+      "answer": "Stage Coach",
+      "points": 100
+    },
+    {
+      "id": 27,
+      "question": "Grandpa was born",
+      "answer": "1949",
+      "points": 200
+    },
+    {
+      "id": 28,
+      "question": "Why we didn't see Mt. Rushmore",
+      "answer": "Fog",
+      "points": 300
+    },
+    {
+      "id": 29,
+      "question": "During the trip west, Tim & Emily fashioned t-shirts designed by this guy",
+      "answer": "Lenny",
+      "points": 400
+    },
+    {
+      "id": 30,
+      "question": "The xmas ornament gifted to all the Pawson grand kids that G'pa Pawson made",
+      "answer": "Reindeer",
+      "points": 500
+    },
+    {
+      "id": 31,
+      "question": "Name this wrestler",
+      "answer": "Roman Reigns",
+      "picture": "https://www.sescoops.com/wp-content/uploads/2019/01/roman-reigns-696x393.jpg",
+      "points": 100
+    },
+    {
+      "id": 32,
+      "question": "Rain rain go away... which band was rain delayed last year at faster horses",
+      "answer": "Toby Keith",
+      "points": 200
+    },
+    {
+      "id": 33,
+      "question": "You can put a grandma in this pit, but you might not get a grandma out...",
+      "answer": "Foam",
+      "points": 300
+    },
+    {
+      "id": 34,
+      "question": "You can toss a coin in the well, or tell me the nickname of the tree in grandma's backyard",
+      "answer": "Wishing Tree",
+      "points": 400
+    },
+    {
+      "id": 35,
+      "question": "Standard issue attire for the kids on July 4th",
+      "answer": "Old Navy T-Shirts",
+      "points": 500
+    },
+    {
+      "id": 36,
+      "question": "Cyrelle and Marc are both types of these",
+      "answer": "In Laws",
+      "points": 100
+    },
+    {
+      "id": 37,
+      "question": "The 2 holiday weddings took place on...",
+      "answer": "New Years Eve & 4th of July",
+      "points": 200
+    },
+    {
+      "id": 38,
+      "question": "This in-law has a numb spot on their leg from a go kart accident",
+      "answer": "Geri",
+      "points": 300
+    },
+    {
+      "id": 39,
+      "question": "Marc's tattoo is on this arm",
+      "answer": "Right",
+      "points": 400
+    },
+    {
+      "id": 40,
+      "question": "Cyrelle took this off while backing out of the garage",
+      "answer": "Van door",
+      "points": 500
+    },
+    {
+      "id": 41,
+      "question": "Of the salt water variety, or our old dog",
+      "answer": "Taffy",
+      "points": 100
+    },
+    {
+      "id": 42,
+      "question": "Watch I Astor ball carrier brought down by number three jazz band at the end of Patika first down Eagles and the answer to the airline for shits",
+      "description": "The author of this text",
+      "answer": "2006",
+      "points": 200
+    },
+    {
+      "id": 43,
+      "question": "Only month with no family birthday",
+      "answer": "July",
+      "points": 300
+    },
+    {
+      "id": 44,
+      "question": "Number of siblings grandma Davis has",
+      "answer": "4",
+      "points": 400
+    },
+    {
+      "id": 45,
+      "question": "The only way to eat powdered donuts",
+      "answer": "With a knife",
+      "points": 500
+    },
+    {
+      "id": 46,
+      "question": "The boy and girl that share the same middle name",
+      "answer": "Tim & Wraiya",
+      "points": 100
+    },
+    {
+      "id": 47,
+      "question": "Lynn/e is a middle name this many times in the family",
+      "answer": "4",
+      "points": 200
+    },
+    {
+      "id": 48,
+      "question": "We had this barbie doll sister, but also shows up in family middle names 3 times",
+      "answer": "Marie",
+      "points": 300
+    },
+    {
+      "id": 49,
+      "question": "Emily has her middle name",
+      "answer": "G/ma Pawson",
+      "points": 400
+    },
+    {
+      "id": 50,
+      "question": "Grandma Virginia Davis' middle name",
+      "answer": "Ruth",
+      "points": 500
+    }
+  ],
+  "categories2": [
+    {
+      "id": 1,
+      "category": "Original 6"
+    },
+    {
+      "id": 2,
+      "category": "Grand Knowledge"
+    },
+    {
+      "id": 3,
+      "category": "Married Knowledge"
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 5,
+      "category": "Middle Name Knowledge"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "The Barth's",
+      "avatar": "/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Davis'",
+      "avatar": "/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Branch's",
+      "avatar": "/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg"
+    }
+  ]
+}
