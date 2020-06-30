@@ -228,10 +228,10 @@ const App = () => {
                     {/* eslint-disable-next-line react/prop-types,multiline-ternary,no-ternary */}
                     <Title>{usedCards.includes(card.id) ? '\u2717' : card.points}</Title>
                 </StyledCard>)}
-                <ScoreBoardContainer>
-                    {teams.map(team => <ScoreBoardCard key={team.id} idx={team.id} title={team.name} score={teamIDs[team.id - 1]} avatar={'/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg'}/>)}
-                </ScoreBoardContainer>
             </GameContainer>
+            <ScoreBoardContainer>
+                {teams.map(team => <ScoreBoardCard key={team.id} idx={team.id} title={team.name} score={teamIDs[team.id - 1]} avatar={'/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg'}/>)}
+            </ScoreBoardContainer>
     </>
     );
 };

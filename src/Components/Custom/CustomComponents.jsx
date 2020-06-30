@@ -69,7 +69,6 @@ export const ColumnContainer = styled.div`
 
 export const ScoreBoardContainer = styled.div`
     position: absolute;
-    bottom: 0;
     left: 50%;
     display: grid;
     grid-template-columns: auto auto auto;
