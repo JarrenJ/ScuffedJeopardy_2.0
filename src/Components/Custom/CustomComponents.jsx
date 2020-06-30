@@ -61,11 +61,20 @@ export const GameContainer = styled.div`
     grid-template-rows: auto auto auto auto auto;
 `;
 
+
 export const ColumnContainer = styled.div`
     display: grid;
     width: auto;
     grid-template-columns: auto auto auto auto auto;
 `;
+
+export const FinalContainer = styled.div`
+    display: grid;
+    width: auto;
+    justify-items: center;
+    grid-template-columns: auto;
+`;
+
 
 export const ScoreBoardContainer = styled.div`
     position: absolute;
