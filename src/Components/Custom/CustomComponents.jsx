@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import myImage from '../../assets/dev/JarrenSeniorPicFixed.jpg';
+// import myImage from '../../assets/dev/JarrenSeniorPicFixed.jpg';
 // import Swal from 'sweetalert2';
 // import withReactContent from 'sweetalert2-react-content';
 
@@ -11,6 +11,7 @@ import myImage from '../../assets/dev/JarrenSeniorPicFixed.jpg';
 export const Title = styled.h2`
   color: #000;
   font-weight: 600;
+  font-size: 1.9rem;
 `;
 
 export const StyledPoints = styled.h2`
@@ -34,9 +35,10 @@ export const Description = styled.p`
 
 export const StyledCard = styled.button`
   position: relative;
-  min-width: 24.9em;
-  width: auto;
-  height: 10em;
+  // min-width: 24.9em;
+  min-width: 20vw;
+  // width: auto;
+  min-height: 12vh;
   cursor: pointer;
   background-color: #dcbeee;
   &:hover {
@@ -47,9 +49,8 @@ export const StyledCard = styled.button`
 
 export const StyledCategoryCard = styled.button`
   position: relative;
-  min-height: 15em;
-  max-height: 25em;
-  min-width: 24.9em;
+  min-height: 15vh;
+  min-width: 20vw;
   // cursor: pointer;
   background-color: #c293e2;
 `;
@@ -75,7 +76,6 @@ export const FinalContainer = styled.div`
     grid-template-columns: auto;
 `;
 
-
 export const ScoreBoardContainer = styled.div`
     position: absolute;
     left: 50%;
@@ -85,7 +85,7 @@ export const ScoreBoardContainer = styled.div`
     justify-items: center;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    padding: 2em 0em 2em 0em;
+    padding: 1em;
 `;
 
 export const StyledScoreBoardCard = styled.div`
@@ -94,8 +94,8 @@ export const StyledScoreBoardCard = styled.div`
     grid-template-columns: auto;
     justify-items: center;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    min-height: 1vh;
     width: auto;
-    height: auto;
 `;
 // eslint-disable-next-line no-unused-vars
 // const StyledScoreBoardCardFooter = styled.div`
@@ -191,7 +191,7 @@ const CategoryCard = props => (
 export const ScoreBoardCard = props => (
         <StyledScoreBoardCard>
             {/* eslint-disable-next-line react/prop-types */}
-            <TeamAvatar src={myImage}/>
+            {/*<TeamAvatar src={myImage}/>*/}
             <TeamTitle
                 style={{ textAlign: 'center' }}
             >

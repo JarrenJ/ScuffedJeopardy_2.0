@@ -56,7 +56,7 @@
     },
     {
       "id": 10,
-      "question": "John Michael Montgomery sand this song in 1995 but Tim couldn't get the lyrics down",
+      "question": "John Michael Montgomery sang this song in 1995 but Tim couldn't get the lyrics down",
       "answer": "Sold",
       "points": 500
     },
@@ -182,8 +182,8 @@
     },
     {
       "id": 27,
-      "question": "Grandpa was born",
-      "answer": "1949",
+      "question": "Who is the favorite child",
+      "answer": "Emily",
       "points": 200
     },
     {
@@ -215,6 +215,7 @@
       "id": 32,
       "question": "Rain rain go away... which band was rain delayed last year at faster horses",
       "answer": "Toby Keith",
+      "double": true,
       "points": 200
     },
     {
@@ -255,14 +256,15 @@
     },
     {
       "id": 39,
-      "question": "Marc's tattoo is on this arm",
-      "answer": "Right",
+      "question": "Cyrelle took this off while backing out of the garage",
+      "answer": "Van door",
       "points": 400
     },
     {
       "id": 40,
-      "question": "Cyrelle took this off while backing out of the garage",
-      "answer": "Van door",
+      "question": "Marc's tattoo is on this arm",
+      "answer": "Right",
+      "double": true,
       "points": 500
     },
     {
@@ -274,8 +276,7 @@
     {
       "id": 42,
       "question": "Watch I Astor ball carrier brought down by number three jazz band at the end of Patika first down Eagles and the answer to the airline for shits",
-      "description": "The author of this text",
-      "answer": "2006",
+      "answer": "Jen",
       "points": 200
     },
     {
@@ -317,7 +318,7 @@
     {
       "id": 49,
       "question": "Emily has her middle name",
-      "answer": "G/ma Pawson",
+      "answer": "G'ma Pawson",
       "points": 400
     },
     {
@@ -330,7 +331,7 @@
   "categories2": [
     {
       "id": 1,
-      "category": "Original 6"
+      "category": "Original 6 Knowledge"
     },
     {
       "id": 2,

@@ -57,8 +57,10 @@ const App = () => {
     };
 
     // const testArray = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50];
+    // const testArray2 = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25];
     const setOfUsedCards = new Set(usedCards);
     // const setOfUsedCards = new Set(testArray);
+    // const setOfUsedCards = new Set(testArray2);
 
     return (
         <>
@@ -71,11 +73,7 @@ const App = () => {
                             allowOutsideClick: false,
                             // eslint-disable-next-line react/prop-types
                             title: 'Name from the left to the right the order of family members in the famous Virginia Beach topless photo',
-                            width: 1500,
                             // eslint-disable-next-line sort-keys,multiline-ternary,no-ternary
-                            html: <img style={{ width: '55em',
-                                // eslint-disable-next-line sort-keys
-                                height: '45em' }} src={finalPhoto} alt="Picture"/>,
                             // eslint-disable-next-line sort-keys
                             icon: 'question',
                             // eslint-disable-next-line sort-keys
@@ -87,14 +85,18 @@ const App = () => {
                                 icon: 'success',
                                 // eslint-disable-next-line react/prop-types
                                 title: 'Brent, Marc, Geri, G\'pa, Tim, Cyrelle',
+                                html: <img style={{ width: '55em',
+                                    // eslint-disable-next-line sort-keys
+                                    height: '45em' }} src={finalPhoto} alt="Picture"/>,
                                 // eslint-disable-next-line sort-keys
+                                width: 1500,
                                 confirmButtonText: 'Continue',
                                 // eslint-disable-next-line max-lines-per-function
                             });
                         });
                     }}>
                         {/* eslint-disable-next-line react/prop-types,multiline-ternary,no-ternary */}
-                        <Title>Family / Vacation Knowledge</Title>
+                        <Title>Family Photos</Title>
                         {/* eslint-disable-next-line max-lines-per-function,react/jsx-key */}
                     </StyledCard>
                 </FinalContainer> : <> <ColumnContainer>
@@ -108,7 +110,7 @@ const App = () => {
                             // eslint-disable-next-line react/prop-types
                             title: card.question,
                             // eslint-disable-next-line sort-keys
-                            text: card.description && card.description,
+                            text: card.double ? 'DOUBLE POINTS!' : '',
                             // eslint-disable-next-line sort-keys,multiline-ternary,no-ternary
                             html: card.picture ? (<img style={{ width: '15em',
                                 // eslint-disable-next-line sort-keys
@@ -150,7 +152,7 @@ const App = () => {
                                     }
                                     // eslint-disable-next-line multiline-ternary,no-ternary
                                 }).then(result => {
-                                    updateScore(result.value.teamBarth, result.value.teamDavis, result.value.teamBranch, card.points);
+                                    updateScore(result.value.teamBarth, result.value.teamDavis, result.value.teamBranch, card.double ? card.points*2 : card.points);
                                 })
                                     .then(() => {
                                         sweetAlert.fire({
