@@ -16,11 +16,9 @@ const sweetAlert = withReactContent(Swal);
 
 // eslint-disable-next-line max-lines-per-function
 const App = () => {
-    // eslint-disable-next-line no-unused-vars
+
     const [teamOneScore, setTeamOneScore] = useState(0);
-    // eslint-disable-next-line no-unused-vars
     const [teamTwoScore, setTeamTwoScore] = useState(0);
-    // eslint-disable-next-line no-unused-vars
     const [teamThreeScore, setTeamThreeScore] = useState(0);
     const teamIDs = [
         teamOneScore,
