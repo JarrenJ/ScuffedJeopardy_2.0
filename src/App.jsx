@@ -84,7 +84,7 @@ const App = () => {
                                 allowOutsideClick: false,
                                 icon: 'success',
                                 // eslint-disable-next-line react/prop-types
-                                title: 'Brent, Marc, Geri, G\'pa, Tim, Cyrelle',
+                                title: "Brent, Marc, Geri, G'pa, Tim, Cyrelle",
                                 html: <img style={{ width: '55em',
                                     // eslint-disable-next-line sort-keys
                                     height: '45em' }} src={finalPhoto} alt="Picture"/>,
