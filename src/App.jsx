@@ -62,6 +62,7 @@ const App = () => {
 
     return (
         <>
+            {/* eslint-disable-next-line no-ternary */}
             {setOfUsedCards.size === 50
                 // eslint-disable-next-line multiline-ternary
                 ? <FinalContainer>

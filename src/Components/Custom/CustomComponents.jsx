@@ -20,10 +20,10 @@ export const TeamTitle = styled.h3`
   padding: 0em 5em 0em 5em;
 `;
 
-export const Description = styled.p`
-  color: #000;  
-  font-weight: 300;
-`;
+// export const Description = styled.p`
+//   color: #000;
+//   font-weight: 300;
+// `;
 
 export const StyledCard = styled.button`
   position: relative;
@@ -85,10 +85,10 @@ export const StyledScoreBoardCard = styled.div`
     width: auto;
 `;
 
-export const TeamAvatar = styled.img`
-    width: 15em;
-    height: 10em;
-`;
+// export const TeamAvatar = styled.img`
+//     width: 15em;
+//     height: 10em;
+// `;
 
 const CategoryCard = props => (
     <StyledCategoryCard>
@@ -100,7 +100,6 @@ const CategoryCard = props => (
 export const ScoreBoardCard = props => (
         <StyledScoreBoardCard>
             {/* eslint-disable-next-line react/prop-types */}
-            {/*<TeamAvatar src={myImage}/>*/}
             <TeamTitle
                 style={{ textAlign: 'center' }}
             >
