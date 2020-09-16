@@ -68,7 +68,7 @@ export const ScoreBoardContainer = styled.div`
     position: absolute;
     left: 50%;
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto auto;
     justify-items: center;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);

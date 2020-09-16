@@ -2,368 +2,391 @@
   "cards": [
     {
       "id": 1,
-      "question": "This odd number tallies the family head count",
-      "answer": "23",
-      "points": 100
+      "question": "???",
+      "answer": "Eevee",
+      "points": 100,
+      "picture": "https://i2.wp.com/ghettogamer.net/wp-content/uploads/2019/09/whos_that_pokemon_eevee.png?fit=1440%2C810&ssl=1"
     },
     {
       "id": 2,
-      "question": "It was a big deal Jen and Geri dated because of this age difference",
-      "answer": "5",
-      "points": 200
+      "question": "???",
+      "answer": "Mimikyu",
+      "points": 200,
+      "picture": "https://i.ytimg.com/vi/vGioJbsxiYk/maxresdefault.jpg"
     },
     {
       "id": 3,
-      "question": "This vowel is found at the end of most middle names in the family",
-      "answer": "E",
-      "points": 300
+      "question": "???",
+      "answer": "Starmie",
+      "points": 300,
+      "picture": "https://pbs.twimg.com/media/Crdn1vEUIAAvZKx.png"
     },
     {
       "id": 4,
-      "question": "When legally changing her name she took out these two letters from the spelling",
-      "answer": "M and Y",
-      "points": 400
+      "question": "???",
+      "answer": "Jigglypuff",
+      "points": 400,
+      "picture": "https://www.outcyders.net/images/quizzes/4/question1.jpg"
     },
     {
       "id": 5,
-      "question": "The actual length of the trail in Tennessee",
-      "answer": "2.7 Miles",
-      "points": 500
+      "question": "???",
+      "answer": "Jolteon",
+      "points": 500,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-sBSxmZ9rsU6ncfNn5VSoRgui9iyPdLRO_Q&usqp=CAU"
     },
     {
       "id": 6,
-      "question": "Finish this song: 'Oh the lord is good to me ...'",
-      "answer": "... and so I thank the lord...",
+      "question": "The boy in the iceberg",
+      "answer": "Aang / The Avatar",
       "points": 100
     },
     {
       "id": 7,
-      "question": "This history-filled Billy Joel song took forever to write the lyrics out",
-      "answer": "We Didn't Start The Fire",
+      "question": "The secret order in the series",
+      "answer": "The Order of The White Lotus",
       "points": 200
     },
     {
       "id": 8,
-      "question": "We line danced to this country song",
-      "answer": "Boot Scoot Boogy",
+      "question": "What was Toph's character originally supposed to be",
+      "answer": "Male",
       "points": 300
     },
     {
       "id": 9,
-      "question": "The instruments that were played by the original 6",
-      "answer": "Flute, Clarinet, Sax, and Percussion",
+      "question": "Name all the special bending practices from firebending",
+      "answer": "Lightning and Combustion",
       "points": 400
     },
     {
       "id": 10,
-      "question": "John Michael Montgomery sang this song in 1995 but Tim couldn't get the lyrics down",
-      "answer": "Sold",
+      "question": "Who was the earthbender in the opening scene supposed to be? BONUS: Who did they change him to be?",
+      "answer": "Toph. They changed him to be Roku's earthbender teacher.",
       "points": 500
     },
     {
       "id": 11,
-      "question": "We've all been to this magical place",
-      "answer": "Disney World",
-      "points": 100
+      "question": "???",
+      "answer": "widepepohappy",
+      "points": 100,
+      "picture": "data:image/png;base64,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"
     },
     {
       "id": 12,
-      "question": "The body part Holden burned last time at OBX.",
-      "answer": "Feet",
-      "points": 200
+      "question": "???",
+      "answer": "Kappa",
+      "points": 200,
+      "picture": "https://i.kym-cdn.com/entries/icons/facebook/000/017/403/218_copy.jpg"
     },
     {
       "id": 13,
-      "question": "Em took a trip in this restaurant",
-      "answer": "Captain George's Buffet",
-      "points": 300
+      "question": "???",
+      "answer": "Pogu",
+      "points": 300,
+      "picture": "https://ih1.redbubble.net/image.1099638760.5064/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg"
     },
     {
       "id": 14,
-      "question": "He was the manager at our favorite hotel in Virginia Beach",
-      "answer": "Howard",
-      "points": 400
+      "question": "???",
+      "answer": "Pogchamp",
+      "points": 400,
+      "picture": "https://vignette.wikia.nocookie.net/internet-meme/images/6/6e/Pogchamp.jpg/revision/latest?cb=20180310053228"
     },
     {
       "id": 15,
-      "question": "His moon was over the falls of Niagra",
-      "answer": "Kari",
-      "points": 500
+      "question": "???",
+      "answer": "OMEGALUL",
+      "points": 500,
+      "picture": "https://ih1.redbubble.net/image.1047394731.8208/poster,840x830,f8f8f8-pad,1000x1000,f8f8f8.u1.jpg"
     },
     {
       "id": 16,
-      "question": "Jarren, Teige, Y2k",
-      "answer": "2000",
+      "question": "Uses door frames as a scratching post",
+      "answer": "AJ",
       "points": 100
     },
     {
       "id": 17,
-      "question": "Carys should have been born in this year",
-      "answer": "2006",
+      "question": "!straight",
+      "answer": "Aaron",
       "points": 200
     },
     {
       "id": 18,
-      "question": "Kennedy was born and Tami graduated",
-      "answer": "1989",
+      "question": "Beats the everliving shit out of doors when intoxicated",
+      "answer": "Christian",
       "points": 300
     },
     {
       "id": 19,
-      "question": "Original OBX trip",
-      "answer": "2012",
+      "question": "Loves 3 things in this world... Family, Gf, and going vroom vroom",
+      "answer": "Patrick",
       "points": 400
     },
     {
       "id": 20,
-      "question": "The first trip to Virginia Beach was in the Summer of this year",
-      "answer": "1992",
+      "question": "He has a name... but it is rarely used",
+      "answer": "Ruddy",
       "points": 500
     },
     {
       "id": 21,
-      "question": "Mobile Army Surgical Hospital",
-      "answer": "MASH",
+      "question": "X + 72 = 105; Solve for X.",
+      "answer": "33",
       "points": 100
     },
     {
       "id": 22,
-      "question": "Kemo Sabe",
-      "answer": "The Lone Ranger",
+      "question": "Pat has 12 gallons of milk. If AJ beats the shit out of him and steals 8, how many gallons of milk does Pat have left?",
+      "answer": "4",
       "points": 200
     },
     {
       "id": 23,
-      "question": "Could I BE anymore obvious",
-      "answer": "Friends",
+      "question": "John has 65,536 apples. He wants to put them into 1024 boxes evenly. How many apples go in each box?",
+      "answer": "64",
       "points": 300
     },
     {
       "id": 24,
-      "question": "Serenity Now",
-      "answer": "Seinfeld",
+      "question": "a^2 + b^2 = c^2",
+      "answer": "Pythagorean Theorem",
       "points": 400
     },
     {
       "id": 25,
-      "question": "Kaaaaaaaarl",
-      "answer": "Llamas with hats",
+      "question": "Train A leaves station B headed for station A at 8:30 am. Train B leaves station A headed for station B at sometime after that. Train A is travelling at a rate of 7422 km/h. If Train A doesn't arrive to station B until 12:55 pm the next day, we can assume Train B will take longer. How many feet are in 900 yards?",
+      "answer": "2,700",
       "points": 500
     }
   ],
   "categories": [
     {
       "id": 1,
-      "category": "Letters & Numbers"
+      "category": "Who's That Pokémon"
     },
     {
       "id": 2,
-      "category": "Music"
+      "category": "ATLA"
     },
     {
       "id": 3,
-      "category": "Vacations"
+      "category": "Twitch Emotes"
     },
     {
       "id": 4,
-      "category": "What Year Was It?"
+      "category": "Friend Group"
     },
     {
       "id": 5,
-      "category": "Tv Shows We Love/d"
+      "category": "Math"
     }
   ],
   "cards2": [
     {
       "id": 26,
-      "question": "A form of transportation in the wild west, also where our parents worked",
-      "answer": "Stage Coach",
+      "question": "Look little bit here",
+      "answer": "Fellah",
       "points": 100
     },
     {
       "id": 27,
-      "question": "Who is the favorite child",
-      "answer": "Emily",
+      "question": "Head of Cybersecurity Dept.",
+      "answer": "Scott Bell",
       "points": 200
     },
     {
       "id": 28,
-      "question": "Why we didn't see Mt. Rushmore",
-      "answer": "Fog",
+      "question": "Most relatable professor in comp sci dept. ",
+      "answer": "Nathan Eloe",
       "points": 300
     },
     {
       "id": 29,
-      "question": "During the trip west, Tim & Emily fashioned t-shirts designed by this guy",
-      "answer": "Lenny",
+      "question": "Is a pilot",
+      "answer": "Dr. Rodgers",
       "points": 400
     },
     {
       "id": 30,
-      "question": "The xmas ornament gifted to all the Pawson grand kids that G'pa Pawson made",
-      "answer": "Reindeer",
+      "question": "The internet is for cat images and porn",
+      "answer": "Charles Hoot",
       "points": 500
     },
     {
       "id": 31,
-      "question": "Name this wrestler",
-      "answer": "Roman Reigns",
-      "picture": "https://www.sescoops.com/wp-content/uploads/2019/01/roman-reigns-696x393.jpg",
+      "question": "What is logged to the console?",
+      "answer": "49",
+      "picture": "https://i.ibb.co/yWTD6nM/question1.png",
       "points": 100
     },
     {
       "id": 32,
-      "question": "Rain rain go away... which artist was rain delayed last year at faster horses",
-      "answer": "Toby Keith",
+      "question": "What is the output of the following code?",
+      "answer": "Enter two numbers: 10 20 // The sum is: 30",
       "double": true,
-      "points": 200
+      "points": 200,
+      "picture": "https://i.ibb.co/gZL8XZF/question2.png"
     },
     {
       "id": 33,
-      "question": "You can put a grandma in this pit, but you might not get a grandma out...",
-      "answer": "Foam",
-      "points": 300
+      "question": "What is the output of the following code?",
+      "answer": "3.9 is the largest number.",
+      "points": 300,
+      "picture": "https://i.ibb.co/1QFBm5j/question3.png"
     },
     {
       "id": 34,
-      "question": "You can toss a coin in the well, or tell me the nickname of the tree in grandma's backyard",
-      "answer": "Wishing Tree",
-      "points": 400
+      "question": "What is the output of the following code",
+      "answer": "The sum of 1.5 and 6.3 is 7.8",
+      "points": 400,
+      "picture": "https://i.ibb.co/sPb2g6f/question4.png"
     },
     {
       "id": 35,
-      "question": "Standard issue attire for the kids on July 4th",
-      "answer": "Old Navy T-Shirts",
+      "question": "por que no los dos?",
+      "answer": "but why not both",
       "points": 500
     },
     {
-      "id": 36,
-      "question": "Cyrelle and Marc are both types of these",
-      "answer": "In Laws",
+      "id": 37,
+      "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+      "answer": "M",
       "points": 100
     },
     {
-      "id": 37,
-      "question": "The 2 holiday weddings took place on...",
-      "answer": "New Years Eve & 4th of July",
-      "points": 200
-    },
-    {
       "id": 38,
-      "question": "This in-law has a numb spot on their leg from a go kart accident",
-      "answer": "Geri",
+      "question": "Paul's height is six feet, he's an assistant at a butcher's shop, and wears size 9 shoes. What does he weigh?",
+      "answer": "Meat.",
       "points": 300
     },
     {
       "id": 39,
-      "question": "Cyrelle took this off while backing out of the garage",
-      "answer": "Van door",
-      "points": 400
+      "question": "What can you hold in your right hand, but never in your left hand?",
+      "answer": "Your left hand.",
+      "points": 300
     },
     {
       "id": 40,
-      "question": "Marc's tattoo is on this arm",
-      "answer": "Right",
-      "double": true,
-      "points": 500
+      "question": "Brothers and sisters I have none but this man's father is my father's son.\nWho is the man?",
+      "answer": "The man is my son.",
+      "points": 400
+    },
+    {
+      "id": 36,
+      "question": "What can travel around the world while staying in a corner?",
+      "answer": "A stamp.",
+      "points": 500,
+      "double": true
     },
     {
       "id": 41,
-      "question": "Of the salt water variety, or our old dog",
-      "answer": "Taffy",
+      "question": "What show is Plank from?",
+      "answer": "Ed, Edd, n Eddy",
       "points": 100
     },
     {
       "id": 42,
-      "question": "Watch I Astor ball carrier brought down by number three jazz band at the end of Patika first down Eagles and the answer to the airline for shits",
-      "answer": "Jen",
+      "question": "Pentagon shaped snacks",
+      "answer": "Gushers",
       "points": 200
     },
     {
       "id": 43,
-      "question": "Only month with no family birthday",
-      "answer": "July",
+      "question": "Little balls that transformed into lit ass creatures",
+      "answer": "Bakugan",
       "points": 300
     },
     {
       "id": 44,
-      "question": "Number of siblings grandma Davis has",
-      "answer": "4",
+      "question": "Ben 10's cousin",
+      "answer": "Gwen",
       "points": 400
     },
     {
       "id": 45,
-      "question": "The only way to eat powdered donuts",
-      "answer": "With a knife",
+      "question": "Let it rip!",
+      "answer": "Beyblade",
       "points": 500
     },
     {
       "id": 46,
-      "question": "The boy and girl that share the same middle name",
-      "answer": "Tim & Wraiya",
+      "question": "God took 7 days to create his world, Notch took...?",
+      "answer": "6 days",
       "points": 100
     },
     {
       "id": 47,
-      "question": "Lynn/e is a middle name this many times in the family",
-      "answer": "4",
+      "question": "What alphabet does the enchantment table use?",
+      "answer": "Galactic",
       "points": 200
     },
     {
       "id": 48,
-      "question": "We had this barbie doll sister, but also shows up in family middle names 3 times",
-      "answer": "Marie",
+      "question": "1 block = ?\nBONUS: How big does that make a chicken?",
+      "answer": "1 meter cubed",
       "points": 300
     },
     {
       "id": 49,
-      "question": "Emily has her middle name",
-      "answer": "G'ma Pawson",
+      "question": "Minecraft's original name",
+      "answer": "Cave Game",
       "points": 400
     },
     {
       "id": 50,
-      "question": "Grandma Virginia Davis' middle name",
-      "answer": "Ruth",
+      "question": "Ghasts are voiced by...?\nEndermen actually speak...?",
+      "answer": "Cats and English (reversed, or pitched down)",
       "points": 500
     }
   ],
   "categories2": [
     {
       "id": 1,
-      "category": "Original 6 Knowledge"
+      "category": "Professors"
     },
     {
       "id": 2,
-      "category": "Grand Knowledge"
+      "category": "Languages"
     },
     {
       "id": 3,
-      "category": "Married Knowledge"
+      "category": "Riddles"
     },
     {
       "id": 4,
-      "category": "General Knowledge"
+      "category": "Childhood Classics"
     },
     {
       "id": 5,
-      "category": "Middle Name Knowledge"
+      "category": "Minecraft Knowledge"
     }
   ],
   "teams": [
     {
       "id": 1,
-      "name": "The Barth's",
+      "name": "Aaron Bopp",
       "avatar": "/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg"
     },
     {
       "id": 2,
-      "name": "The Davis'",
+      "name": "Alan Joseph Hagemann",
       "avatar": "/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg"
     },
     {
       "id": 3,
-      "name": "The Branch's",
+      "name": "Christian Jackson",
+      "avatar": "/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Thomas Rudkin",
+      "avatar": "/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Patrick Trani",
       "avatar": "/Users/jarrenj/scuffedjeopardy/src/assets/dev/JarrenSeniorPicFixed.jpg"
     }
   ]
