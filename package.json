@@ -2,7 +2,7 @@
   "name": "scuffedjeopardy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.thequantumrealm.wtf",
+  "homepage": "https://jarrenj.github.io/ScuffedJeopardy_2.0/",
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "@testing-library/jest-dom": "^4.2.4",
