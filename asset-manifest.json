@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.86c52b83.chunk.js",
-    "main.js.map": "/static/js/main.86c52b83.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.331a4112.js",
-    "runtime-main.js.map": "/static/js/runtime-main.331a4112.js.map",
-    "static/js/2.8669c5b2.chunk.js": "/static/js/2.8669c5b2.chunk.js",
-    "static/js/2.8669c5b2.chunk.js.map": "/static/js/2.8669c5b2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a224d384ef889f942b13eef11c49ad49.js": "/precache-manifest.a224d384ef889f942b13eef11c49ad49.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.8669c5b2.chunk.js.LICENSE.txt": "/static/js/2.8669c5b2.chunk.js.LICENSE.txt",
-    "static/media/final.jpeg": "/static/media/final.1fc2a958.jpeg"
+    "main.css": "/ScuffedJeopardy_2.0/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ScuffedJeopardy_2.0/static/js/main.86c52b83.chunk.js",
+    "main.js.map": "/ScuffedJeopardy_2.0/static/js/main.86c52b83.chunk.js.map",
+    "runtime-main.js": "/ScuffedJeopardy_2.0/static/js/runtime-main.a1eb2bcd.js",
+    "runtime-main.js.map": "/ScuffedJeopardy_2.0/static/js/runtime-main.a1eb2bcd.js.map",
+    "static/js/2.d2a363dd.chunk.js": "/ScuffedJeopardy_2.0/static/js/2.d2a363dd.chunk.js",
+    "static/js/2.d2a363dd.chunk.js.map": "/ScuffedJeopardy_2.0/static/js/2.d2a363dd.chunk.js.map",
+    "index.html": "/ScuffedJeopardy_2.0/index.html",
+    "precache-manifest.79631d37360dc86cdafbeabc2a3bfa8a.js": "/ScuffedJeopardy_2.0/precache-manifest.79631d37360dc86cdafbeabc2a3bfa8a.js",
+    "service-worker.js": "/ScuffedJeopardy_2.0/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ScuffedJeopardy_2.0/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d2a363dd.chunk.js.LICENSE.txt": "/ScuffedJeopardy_2.0/static/js/2.d2a363dd.chunk.js.LICENSE.txt",
+    "static/media/final.jpeg": "/ScuffedJeopardy_2.0/static/media/final.1fc2a958.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.331a4112.js",
-    "static/js/2.8669c5b2.chunk.js",
+    "static/js/runtime-main.a1eb2bcd.js",
+    "static/js/2.d2a363dd.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.86c52b83.chunk.js"
   ]
